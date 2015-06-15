@@ -1,2 +1,2 @@
 # command
-command line arguments!
+It's a repository of command line arguments!
